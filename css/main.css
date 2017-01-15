@@ -3,6 +3,11 @@
     src: url(../fonts/Old-English-Five.ttf);
 }
 
+.whbw-container{
+    border: 1px solid black;
+    margin: 2em auto;
+}
+
 .old-english {
     font-family: oldEnglish ;
 }
