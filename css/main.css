@@ -1,6 +1,22 @@
-.title{
+@font-face {
+    font-family: oldEnglish;
+    src: url(../fonts/Old-English-Five.ttf);
+}
+
+.old-english {
+    font-family: oldEnglish ;
+}
+
+.whbm-title {
+    padding: 1.0em 1.0em 2.0em 1.0em;
 
 }
-.question {
-    padding: 0.3em;
+
+.whbm-question {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 0.3em 0.3em 1.2em 0.3em;
+}
+
+.whbw-footer {
+    padding: 3.0em 1.0em 1.0em 1.0em;
 }
